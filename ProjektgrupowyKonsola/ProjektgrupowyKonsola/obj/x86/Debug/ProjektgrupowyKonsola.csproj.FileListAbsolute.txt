@@ -1,0 +1,15 @@
+C:\Users\adrian\Desktop\studia\rok 3\Semestr 5\obiektowe\moje\ProjektgrupowyKonsola\ProjektgrupowyKonsola\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adrian\Desktop\studia\rok 3\Semestr 5\obiektowe\moje\ProjektgrupowyKonsola\ProjektgrupowyKonsola\bin\Debug\ProjektgrupowyKonsola.exe
+C:\Users\adrian\Desktop\studia\rok 3\Semestr 5\obiektowe\moje\ProjektgrupowyKonsola\ProjektgrupowyKonsola\bin\Debug\ProjektgrupowyKonsola.pdb
+C:\Users\adrian\Desktop\studia\rok 3\Semestr 5\obiektowe\moje\ProjektgrupowyKonsola\ProjektgrupowyKonsola\obj\x86\Debug\ProjektgrupowyKonsola.exe
+C:\Users\adrian\Desktop\studia\rok 3\Semestr 5\obiektowe\moje\ProjektgrupowyKonsola\ProjektgrupowyKonsola\obj\x86\Debug\ProjektgrupowyKonsola.pdb
+F:\Magisterskie\Semestr 1\C#\ProjektgrupowyKonsola\ProjektgrupowyKonsola\obj\x86\Debug\ProjektgrupowyKonsola.exe
+F:\Magisterskie\Semestr 1\C#\ProjektgrupowyKonsola\ProjektgrupowyKonsola\obj\x86\Debug\ProjektgrupowyKonsola.pdb
+F:\Magisterskie\Semestr 1\C#\ProjektgrupowyKonsola\ProjektgrupowyKonsola\bin\Debug\ProjektgrupowyKonsola.exe
+F:\Magisterskie\Semestr 1\C#\ProjektgrupowyKonsola\ProjektgrupowyKonsola\bin\Debug\ProjektgrupowyKonsola.pdb
+F:\Magisterskie\Semestr 1\C#\ProjektgrupowyKonsola\ProjektgrupowyKonsola\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adrian\Desktop\ProjektgrupowyKonsola\ProjektgrupowyKonsola\obj\x86\Debug\ProjektgrupowyKonsola.exe
+C:\Users\adrian\Desktop\ProjektgrupowyKonsola\ProjektgrupowyKonsola\obj\x86\Debug\ProjektgrupowyKonsola.pdb
+C:\Users\adrian\Desktop\ProjektgrupowyKonsola\ProjektgrupowyKonsola\bin\Debug\ProjektgrupowyKonsola.exe
+C:\Users\adrian\Desktop\ProjektgrupowyKonsola\ProjektgrupowyKonsola\bin\Debug\ProjektgrupowyKonsola.pdb
+C:\Users\adrian\Desktop\ProjektgrupowyKonsola\ProjektgrupowyKonsola\obj\x86\Debug\ResolveAssemblyReference.cache
